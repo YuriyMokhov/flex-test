@@ -125,7 +125,7 @@ h6 {
     margin: 0 0 46 0;
 }
 .hi__list li {
-    background: url("/img/check_icon_346.png") left no-repeat;
+    background: url("img/check_icon_346.png") left no-repeat;
     font-size: 20px;
     line-height: 36px;
     list-style-type: none;
